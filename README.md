@@ -82,4 +82,4 @@ See **[ModifierGuide.md](ModifierGuide.md)** for the full spec. The short versio
 
 ## License
 
-MIT
+[MIT](LICENSE)
